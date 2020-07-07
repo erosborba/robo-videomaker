@@ -1,0 +1,19 @@
+{
+  "name": "robo-videomaker",
+  "version": "1.0.0",
+  "description": "Robo feito em Node que cria videos para o youtube. (Projeto Didático).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erosborba/robo-videomaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erosborba/robo-videomaker/issues"
+  },
+  "homepage": "https://github.com/erosborba/robo-videomaker#readme"
+}
